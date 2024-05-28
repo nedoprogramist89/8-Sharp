@@ -1,0 +1,11 @@
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\bin\Debug\net6.0\SerializeLIB.deps.json
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\bin\Debug\net6.0\SerializeLIB.dll
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\bin\Debug\net6.0\SerializeLIB.pdb
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\obj\Debug\net6.0\SerializeLIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\obj\Debug\net6.0\SerializeLIB.AssemblyInfoInputs.cache
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\obj\Debug\net6.0\SerializeLIB.AssemblyInfo.cs
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\obj\Debug\net6.0\SerializeLIB.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\obj\Debug\net6.0\SerializeLIB.dll
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\obj\Debug\net6.0\refint\SerializeLIB.dll
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\obj\Debug\net6.0\SerializeLIB.pdb
+C:\Users\Дамир\source\repos\8 С#\SerializeLIB\obj\Debug\net6.0\ref\SerializeLIB.dll
