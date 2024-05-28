@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "8СSharp/1.0.0": {
+        "dependencies": {
+          "SerializeLIB": "1.0.0",
+          "ThemeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "8СSharp.dll": {}
+        }
+      },
+      "SerializeLIB/1.0.0": {
+        "runtime": {
+          "SerializeLIB.dll": {}
+        }
+      },
+      "ThemeLibrary/1.0.0": {
+        "runtime": {
+          "ThemeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8СSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SerializeLIB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThemeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\bin\Debug\net6.0\ThemeLIB.deps.json
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\bin\Debug\net6.0\ThemeLIB.dll
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\bin\Debug\net6.0\ThemeLIB.pdb
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\obj\Debug\net6.0\ThemeLIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\obj\Debug\net6.0\ThemeLIB.AssemblyInfoInputs.cache
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\obj\Debug\net6.0\ThemeLIB.AssemblyInfo.cs
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\obj\Debug\net6.0\ThemeLIB.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\obj\Debug\net6.0\ThemeLIB.dll
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\obj\Debug\net6.0\refint\ThemeLIB.dll
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\obj\Debug\net6.0\ThemeLIB.pdb
+C:\Users\Дамир\source\repos\8 С#\ThemeLIB\obj\Debug\net6.0\ref\ThemeLIB.dll

@@ -1,0 +1,26 @@
+C:\Users\Дамир\source\repos\8 С#\8 С#\bin\Debug\net6.0-windows\8 С#.exe
+C:\Users\Дамир\source\repos\8 С#\8 С#\bin\Debug\net6.0-windows\8 С#.deps.json
+C:\Users\Дамир\source\repos\8 С#\8 С#\bin\Debug\net6.0-windows\8 С#.runtimeconfig.json
+C:\Users\Дамир\source\repos\8 С#\8 С#\bin\Debug\net6.0-windows\8 С#.dll
+C:\Users\Дамир\source\repos\8 С#\8 С#\bin\Debug\net6.0-windows\8 С#.pdb
+C:\Users\Дамир\source\repos\8 С#\8 С#\bin\Debug\net6.0-windows\SerializeLIB.dll
+C:\Users\Дамир\source\repos\8 С#\8 С#\bin\Debug\net6.0-windows\SerializeLIB.pdb
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#.csproj.AssemblyReference.cache
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\App.baml
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#_MarkupCompile.cache
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#.g.resources
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#.AssemblyInfoInputs.cache
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#.AssemblyInfo.cs
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#.csproj.CopyComplete
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#.dll
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\refint\8 С#.dll
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#.pdb
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\8 С#.genruntimeconfig.cache
+C:\Users\Дамир\source\repos\8 С#\8 С#\obj\Debug\net6.0-windows\ref\8 С#.dll
+C:\Users\Дамир\source\repos\8 С#\8 С#\bin\Debug\net6.0-windows\ThemeLibrary.dll
+C:\Users\Дамир\source\repos\8 С#\8 С#\bin\Debug\net6.0-windows\ThemeLibrary.pdb
